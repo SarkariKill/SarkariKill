@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, It's Your Truly Aditya Sarkar</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2024/04/ninja-icegif-10.gif">
+<img align="right" alt="Coding" width="400" src="https://33.media.tumblr.com/ae4094c8a6e9c7cef0b526e216ce676e/tumblr_njd9t1Kxcc1tez2f6o1_540.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarkarikill&label=Profile%20views&color=0e75b6&style=flat" alt="sarkarikill" /> </p>
 
